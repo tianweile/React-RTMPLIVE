@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from "react";//
 import logo from "./images/logo.png";
 import "./login.less";
 import { Form, Input, Button, Checkbox, message } from "antd";
